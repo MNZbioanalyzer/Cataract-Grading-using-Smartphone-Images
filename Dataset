@@ -1,0 +1,9 @@
+Dataset Description
+
+For the cataract grading dataset, The IIITD Cataract Mobile Periocular (CMP) database was utilized as the cataractous and normal data images in the current project 
+which was MSc thesis at the University of Waterloo. 
+This database contained images capturing ocular information utilizing the photo-capturing functionality of the smartphones in the visible spectrum. 
+For more information about the IIITD dataset you can refer to the paper.
+
+R. Keshari, S. Ghosh, A. Agarwal, R. Singh, and M. Vatsa. Mobile periocular matching with pre-post cataract surgery. In 2016 IEEE International Conference on Image Processing (ICIP), page 3116, Phoenix, AZ, 2016. IEEE.
+Since due to my contract with the IIITD dataset owners, I am not allowed to share the whole dataset without the owners permission, I am just sharing three samples of the images. If it is required I can ask for the permission.
