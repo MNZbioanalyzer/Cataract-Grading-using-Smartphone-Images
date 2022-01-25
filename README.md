@@ -17,4 +17,7 @@ agumented data + pre-trainded VGG16
 main5.py
 agumented data + inceptionv3
 
+main7.py
+agumented data + RezNet101
+
 
