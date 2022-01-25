@@ -9,3 +9,7 @@ Using designed 4-layer CNN for grading the cataractous lenses in extracted eyes
 
 main2.py
 extracted eyes + keras aumentatgion + cnn
+
+
+main4.py
+agumented data + pre-trainded VGG16
