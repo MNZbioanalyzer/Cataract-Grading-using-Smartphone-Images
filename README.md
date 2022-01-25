@@ -6,3 +6,6 @@ A guideline for the yploaded codes:
 
 main1.py  
 Using designed 4-layer CNN for grading the cataractous lenses in extracted eyes
+
+main2.py
+extracted eyes + keras aumentatgion + cnn
